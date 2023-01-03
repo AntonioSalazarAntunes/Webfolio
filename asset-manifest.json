@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Webfolio/static/css/main.c077e0ad.chunk.css",
+    "main.js": "/Webfolio/static/js/main.7d275e73.chunk.js",
+    "main.js.map": "/Webfolio/static/js/main.7d275e73.chunk.js.map",
+    "runtime-main.js": "/Webfolio/static/js/runtime-main.df1eb109.js",
+    "runtime-main.js.map": "/Webfolio/static/js/runtime-main.df1eb109.js.map",
+    "static/css/2.2e99a83d.chunk.css": "/Webfolio/static/css/2.2e99a83d.chunk.css",
+    "static/js/2.9fddc1f8.chunk.js": "/Webfolio/static/js/2.9fddc1f8.chunk.js",
+    "static/js/2.9fddc1f8.chunk.js.map": "/Webfolio/static/js/2.9fddc1f8.chunk.js.map",
+    "index.html": "/Webfolio/index.html",
+    "static/css/2.2e99a83d.chunk.css.map": "/Webfolio/static/css/2.2e99a83d.chunk.css.map",
+    "static/css/main.c077e0ad.chunk.css.map": "/Webfolio/static/css/main.c077e0ad.chunk.css.map",
+    "static/js/2.9fddc1f8.chunk.js.LICENSE.txt": "/Webfolio/static/js/2.9fddc1f8.chunk.js.LICENSE.txt",
+    "static/media/foto.51255909.png": "/Webfolio/static/media/foto.51255909.png",
+    "static/media/school.a41655f6.svg": "/Webfolio/static/media/school.a41655f6.svg",
+    "static/media/work.3710b624.svg": "/Webfolio/static/media/work.3710b624.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df1eb109.js",
+    "static/css/2.2e99a83d.chunk.css",
+    "static/js/2.9fddc1f8.chunk.js",
+    "static/css/main.c077e0ad.chunk.css",
+    "static/js/main.7d275e73.chunk.js"
+  ]
+}
